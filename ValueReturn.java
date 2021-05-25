@@ -35,5 +35,5 @@ public class ValueReturn
  
   // Return the value in the result variable.
   return result;
-  }
+  } 
 }
